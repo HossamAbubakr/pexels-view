@@ -1,5 +1,5 @@
 const API_URL = "https://api.pexels.com/v1";
-const API_KEY = "your-pexels-api-key";
+const API_KEY = "CGDVPTFd9anz8IHsnEQWNPBBimhzTPngVWkZ3gfWikw3d0wuqKhg64UX";
 const DEFAULT_TIMEOUT = 10000;
 const MAX_RETRIES = 3;
 
